@@ -1,0 +1,12 @@
+{
+  "name": "diw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Weimil",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.56.0",
+    "scss": "^0.2.4"
+  }
+}
